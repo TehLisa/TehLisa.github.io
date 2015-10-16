@@ -8,7 +8,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1;
 	font-size: 13px;
-    color: #a8a8a8;
+    color: #000;
 }
 
 ol, ul {
@@ -564,13 +564,13 @@ figcaption.mask span {
 
 .fact-icon:before {
   bottom: 100%;
-  border-bottom: 14.43px solid #1F2021;
+  border-bottom: 14.43px solid #000000;
 }
 
 .fact-icon:after {
   top: 100%;
   width: 0;
-  border-top: 14.43px solid #1F2021;
+  border-top: 14.43px solid #000000;
 }
 
 .fact-icon > i {
